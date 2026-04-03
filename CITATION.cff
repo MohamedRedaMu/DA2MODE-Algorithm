@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper."
+title: "DA2MODE-Algorithm"
+version: "1.0.0"
+date-released: 2025-09-19
+type: software
+authors:
+  - family-names: "Reda"
+    given-names: "Mohamed"
+    email: "mohamed.reda.mu@gmail.com"
+  - family-names: "Onsy"
+    given-names: "Ahmed"
+  - family-names: "Haikal"
+    given-names: "Amira Y."
+  - family-names: "Ghanbari"
+    given-names: "Ali"
+repository-code: "https://github.com/MohamedRedaMu/DA2MODE-Algorithm"
+license: "MIT"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Reda"
+      given-names: "Mohamed"
+    - family-names: "Onsy"
+      given-names: "Ahmed"
+    - family-names: "Haikal"
+      given-names: "Amira Y."
+    - family-names: "Ghanbari"
+      given-names: "Ali"
+  title: "DA2MODE: Dynamic Archive with Adaptive Multi-Operator Differential Evolution for numerical optimization"
+  journal: "Swarm and Evolutionary Computation"
+  volume: 99
+  year: 2025
+  start: 102130
+  doi: "10.1016/j.swevo.2025.102130"
