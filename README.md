@@ -26,7 +26,6 @@ Main contributions:
 - Adaptive Non-Elite Archive Update (ANEAU)
 - Adaptive mutation and crossover selection
 - Adaptive control parameters
-- Linear population size reduction
 
 ---
 
